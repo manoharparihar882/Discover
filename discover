@@ -34,5 +34,3 @@ touch google_indexing.py google_ctr_bot.py
 echo "🛡️ Setting up firewall..."
 sudo ufw allow OpenSSH
 sudo ufw enable
-
-echo "✅ Ubuntu Server Setup Completed! Now you can add your scripts in ~/discover-bot/scripts"
